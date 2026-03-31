@@ -1,0 +1,38 @@
+table{
+    width: 100%;
+    margin: auto;
+    border-collapse: collapse ;
+    margin-bottom: 90px;
+}
+
+.volei{
+    background-color: rgba(57, 255, 255, 0.289);
+}
+
+.futebol{
+    background-color: rgb(174, 255, 188);
+}
+
+.queimada{
+    background-color:rgb(237, 182, 182) ;
+}
+
+.pega-pega{
+    background-color: beige;
+}
+
+.cabecalho{
+    background-color:rgb(0, 0, 123) ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+
+.pg{
+    background-color: rgb(196, 167, 222);
+}
+
+.turma{
+    background-color:rgb(255, 228, 243) ;
+}
+
+*{text-align: center;}
